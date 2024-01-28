@@ -11,5 +11,7 @@
 - Connect Firebase for Auth and Deploy the App
 - Create Signup user account
 - Add Redux store with useSlice
+- Signup and Signin Logic
+- TMDB API
 
 <!-- Ashwin@12345 -->
