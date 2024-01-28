@@ -10,5 +10,6 @@
 - Setup Firebase
 - Connect Firebase for Auth and Deploy the App
 - Create Signup user account
+- Add Redux store with useSlice
 
 <!-- Ashwin@12345 -->
